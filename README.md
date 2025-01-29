@@ -9,6 +9,8 @@ The changes I made:
 
 
 The output of the monitor:  
+*A1E4s
+
 A1E4-   A9 42       LDA   #$42  
  A=42 X=FF Y=8F P=78 S=CC  
 *s  
